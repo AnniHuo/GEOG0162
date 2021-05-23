@@ -1,7 +1,7 @@
-# MODULE CODE: GEOG0162 
-# MODULE NAME: Cartography and Data Visualization
+## MODULE CODE: GEOG0162 
+## MODULE NAME: Cartography and Data Visualization
 
-## GEOG0162 Individual mapping - poverty investigation
+### GEOG0162 Individual mapping - poverty investigation
 
 According to World Bank Group (2020), COVID-19, armed conflict, and climate change may drive additional people into poverty and global extreme poverty might be increasingly concentrated. Therefore, nations over the world will need to prepare forward to provide humanitarian assistance help vulnerable citizens and restart inclusive growth. 
 
