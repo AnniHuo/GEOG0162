@@ -1,27 +1,51 @@
 
-# GEOG0162 Individual mapping - poverty investigation
+GEOG0162 Individual mapping - poverty investigation
 
 
 
 ```{r echo=FALSE, out.width = "500pt", fig.align='center', cache=TRUE}
 knitr::include_graphics('png/intro.png') 
 ```
+
+
 ```{r echo=FALSE, out.width = "500pt", fig.align='center', cache=TRUE}
 knitr::include_graphics('png/1.png') 
+
+
 ```
+
+
 ```{r echo=FALSE, out.width = "500pt", fig.align='center', cache=TRUE}
 knitr::include_graphics('png/2.png') 
+
+
 ```
+
+
 ```{r echo=FALSE, out.width = "500pt", fig.align='center', cache=TRUE}
 knitr::include_graphics('png/3.png') 
+
+
 ```
+
+
 ```{r echo=FALSE, out.width = "500pt", fig.align='center', cache=TRUE}
 knitr::include_graphics('png/4.png') 
+
+
 ```
+
+
 ```{r echo=FALSE, out.width = "500pt", fig.align='center', cache=TRUE}
 knitr::include_graphics('png/5.png') 
+
+
 ```
+
+
 ```{r echo=FALSE, out.width = "500pt", fig.align='center', cache=TRUE}
 knitr::include_graphics('png/6.png') 
+
+
 ```
 
