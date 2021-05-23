@@ -1,0 +1,11 @@
+name: "GEOG0162_CW"
+output_dir: "."
+navbar:
+  title: "Poverty Investigation"
+  left:
+    - text: "Mapping report"
+      href: index.html
+    - text: "topics"
+      href: poverty-investigation.html
+
+
