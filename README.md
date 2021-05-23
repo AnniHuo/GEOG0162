@@ -1,4 +1,5 @@
-# GEOG0162
+# MODULE CODE: GEOG0162 
+# MODULE NAME: Cartography and Data Visualization
 
 ## GEOG0162 Individual mapping - poverty investigation
 
